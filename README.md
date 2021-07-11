@@ -1,2 +1,2 @@
-# leetcode-solution-archive
-Where I keep all my leetcode problem solutions
+# Overview
+I've been working through the hard-rated problems on leetcode. I've been doing most of them in go, although a few are in python and I might try some other languages as well. Each file is a standalone executable with imports and test cases, rather than just the function you would actually submit. Each file is named using the full name of the problem. This repository is mainly for me to keep track of my own progress and would encourage you to try to come up with your solutions to these problems, but you're of course welcome to have a look at any of them.
